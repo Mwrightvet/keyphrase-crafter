@@ -14,7 +14,7 @@ function writePassword() {
 
   // Validating the length
   if (isNaN(passwordLength) || passwordLength < 8 || passwordLength > 18) {
-    alert("Please enter a valid password length between 8 and 128 characters.");
+    alert("Please enter a valid password length between 8 and 18 characters.");
     return;
   }
 
