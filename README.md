@@ -23,5 +23,7 @@ https://mwrightvet.github.io/keyphrase-crafter/
 
 ## Credits 
 🔵Current Course Content from UCB Berkeley Full Stack Course
+🔵Similar Project Question on StackOVerflow: https://stackoverflow.com/questions/68788420/why-isnt-my-js-code-working-im-trying-to-get-this-code-to-generate-a-random-p
+
 
  
