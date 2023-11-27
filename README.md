@@ -18,7 +18,7 @@ https://mwrightvet.github.io/keyphrase-crafter/
  
 ## Demo 
 
-![keyphrase-crafter](keyphrase-crafter.gif)
+![keyphrase-crafter]([keyphrase-crafter.gif](https://github.com/Mwrightvet/keyphrase-crafter/blob/main/assets/keyphrase-crafter.gif))
 
 
 ## Credits 
